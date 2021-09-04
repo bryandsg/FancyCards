@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FancyCards</string>
+    <string name="label_fancy_cards">Cartões de Visita</string>
+    <string name="new_fancy_card">Novo Cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_color">Clique para selecionar a cor</string>
+    <string name="label_save_button">Salvar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso</string>
+    <string name="ok">OK</string>
+    <string name="empty_name_title">O Nome é inválido</string>
+    <string name="empty_name_message">O campo nome não pode estar vazio.</string>
+    <string name="empty_email_title">O e-mail é inválido</string>
+    <string name="empty_email_message">O campo de e-mail não pode estar vazio.</string>
+    <string name="empty_company_title">A Empresa é inválida</string>
+    <string name="empty_company_message">O campo de empresa não pode estar vazio.</string>
+    <string name="empty_phone_title">O telefone é inválido</string>
+    <string name="empty_phone_message">O campo de telefone não pode estar vazio.</string>
+    <string name="color_picker_title">Selecione uma cor</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="add_new_card">Adicione um novo cartão</string>
+    <string name="close_icon">"Clique para voltar "</string>
+</resources>
